@@ -1,0 +1,4 @@
+<template>
+  <input-field default="4.0">WEB_XML_VERSION</input-field>
+  <input-field default="com.xdz.web">IJ_BASE_PACKAGE</input-field>
+</template>
